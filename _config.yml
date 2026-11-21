@@ -23,7 +23,6 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
   name             : "Lorenzo Fanton"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics, Statistics and Data Science"
@@ -33,7 +32,7 @@ author:
   email            : "l.fanton@campus.unmimib.it" 
 
   # Academic websites
-  academia         : "https://en.unimib.it/lorenzo-fanton"
+  academic website         : "https://en.unimib.it/lorenzo-fanton"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -44,7 +43,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/lorenzo-f-0436923a0/"
+  linkedin         : "lorenzo-f-0436923a0/"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
