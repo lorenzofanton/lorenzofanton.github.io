@@ -32,13 +32,13 @@ author:
   email            : "l.fanton@campus.unmimib.it" 
 
   # Academic websites
-  academic website         : "https://en.unimib.it/lorenzo-fanton"
+  academia         : "https://en.unimib.it/lorenzo-fanton"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/lorenzofanton"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
