@@ -11,4 +11,4 @@ Welcome! I am a PhD student in Economics, Statistics and Data Science at the Uni
 
 My research interest include macroeconomics with a particular focus on monetary policy and DSGE models.
 
-I hold a MSc in Economics and Political Science from the University of Milan and BA in Economia e Management from the University of Milan.
+I hold a MSc in Economics and Political Science from the University of Milan and a BA in Economia e Management from the University of Milan.
