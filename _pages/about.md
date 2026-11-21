@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student in Economics, Statistics and Data Science at the University of Milano-Bicocca.
+Welcome! I am a PhD student in Economics, Statistics and Data Science at the [University of Milano-Bicocca] (https://www.dems.unimib.it/en/programmes/post-lauream/phd-economics-statistics-and-data-science).
 
 My research interest include macroeconomics with a particular focus on monetary policy and DSGE models.
 
