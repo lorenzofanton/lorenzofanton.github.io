@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Statistics and Data Science (curr.Economics), University of Milano-Bicocca, 2026-current
+  * Tutor: Prof. Alice Albonico
+  
+* M.S.c in Economics and Poltical Science, University of Milan, 2023-2025
+  * Grade: 110/110 cum laude
+  * Thesis: Estimated Monetary Policy Rules: ECB's behavior in 2008-2024 and the 
+macroeconomics of the Euro area 
+  * Supervisor: Prof. Alessandro Missale; Co-supervisor: Prof. Giovanna D'Adda
+  
+* B.A. in Economia e Management, University of Milan, 2020-2023
+  * Grade: 110/110 cum laude
+  * Thesis: I numeri indici e la loro applicazione negli indici dei prezzi al consumo: l'esempio 
+dell'ISTAT 
+  * Supervisor: Prof. Alessandro Barbiero
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2025-May 2026: Junior Research Analyst
+  * Politecnico di Milano
+  * Collaboration with the research team of the Fintech & Insurtech Observatory, providing support for: 
+    * research activities on bankability of Nature-based Solutions (NbS) within the Horizon Europe project RISE-IN, contributing to the development of frameworks        and deliverables, 
+    * project coordination activities for RISE-IN at different levels (Work Packages, Tasks),
+    * analysis of the current state of digital innovation in the Italian and international financial and insurance ecosystems, contributing to applied research          activities,
+    * preparation of presentations showcasing different research results in various contexts.
+  * Tutor: Prof. Laura Grassi
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
